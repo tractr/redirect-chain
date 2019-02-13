@@ -4,7 +4,7 @@
 Strict and robust way to get the redirect chain for a given url, async based. No dependencies. Fully tested with 100% code coverage. Throws on redirect loop.
 
 ## Usage
-```
+```javascript
 // initialization
 const config = {
     maxRedirects: 50 // default value
